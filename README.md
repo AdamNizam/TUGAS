@@ -1,6 +1,6 @@
 DESKRIPSI :
 Forum merupakan tempat atau wadah untuk membicarakan kepentingan bersama atau tempat pertemuan dan bertukar fikran antar pengguna. Forum ini merupakan tempat pengguna untuk mencari informasi yang relevan dan memberikan masukan-masukan sesama antar pengguna. Forum mempunyai aturan-aturan di dalamnya agar pengguna bisa berbicara dengan sopan tanpa menyakiti hati pengguna lainnya, forum juga mempunyai administrator atau bisa juga disebut dengan moderator.
-
+Tampilan aplikasi
 
 Halaman Login
 
