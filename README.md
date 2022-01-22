@@ -9,6 +9,12 @@ Halaman Register
 
 ![Register](https://user-images.githubusercontent.com/90693551/149627303-083101df-dff6-44f4-be4a-60e3360bd84c.PNG)
 Halaman About 
+1.ADAM NIZAR = TI17200001
+2.MEGA LESTARI = TI17200027
+3.BAIQ WIDIATUL SAFITRI = TI17200009
+4.SAFWAN HAFIZ = TI172000
+5.RIKI PURNAMA GALEH SAPUTRA = TI172000
+
 
 ![AboutPNG](https://user-images.githubusercontent.com/90693551/149627317-d753ff87-375e-467b-a1f7-b608ea6b755b.PNG)
 Halaman Access Blocked ! ketika user memaksa mengakses Controller Admin
