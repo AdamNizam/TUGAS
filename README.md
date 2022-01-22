@@ -9,6 +9,8 @@ Halaman Register
 
 ![Register](https://user-images.githubusercontent.com/90693551/149627303-083101df-dff6-44f4-be4a-60e3360bd84c.PNG)
 Halaman About 
+
+Nama pembuat
 1.ADAM NIZAR = TI17200001
 2.MEGA LESTARI = TI17200027
 3.BAIQ WIDIATUL SAFITRI = TI17200009
